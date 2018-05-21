@@ -32,3 +32,8 @@ Here I can save checkpoints & compare with my working directory
 Repository:
 If all goes well, I actually commit the change/permanently store changes to my repo with a changelog/message or else I
 roll back
+
+Learnt important concepts like git init, config username and email as its a DVCS, Create staging area (add: See changes), repor (commit: with message, save changes to your main repo).
+
+staging area: My own changelog
+Repo: Save final changes 
