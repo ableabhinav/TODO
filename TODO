@@ -1,0 +1,34 @@
+Games to install/run:
+Need for Speed Most Wanted 2012
+Bioshock Infinite
+Call of Duty Modern Warfare 3
+[Try]Sniper Ghost Warrior
+----------------------------------------------------------------------------------------------
+Bugs:
+1)Airplane mode toggle with Fn key disables touchpad(Reproducable - Y).
+2)Using nvidia driver crashes kde login greeter and effects also do not wokr properly(Reproducable - Y)
+3)Touchpad tapping stops working when watching videos and resumes once I close it down(Reproducable - N) (Ask this in the forum).
+4)Appkications GUI becomes completely black and after a while whole plasma desktop becomes irresponsive if Ido not quickly log out and log back     in.
+5)Dolphin starts acting weird it kept open for a long time or doing a lot of activities with it. Terminal starts to                                                                                       
+ eratically pop up and touchpad tapping stops working(Reproducable - N).
+
+
+------------------------------------------------------------------------------------------------
+Things to learn:
+dmseg, cat, dpkg
+
+
+git:
+
+Working directory -> Staging Area -> Repository
+
+
+Working Directory:
+Where my actual code is
+
+Staging area:
+Here I can save checkpoints & compare with my working directory
+
+Repository:
+If all goes well, I actually commit the change/permanently store changes to my repo with a changelog/message or else I
+roll back
