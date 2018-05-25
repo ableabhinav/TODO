@@ -3,6 +3,9 @@ Need for Speed Most Wanted 2012
 Bioshock Infinite
 Call of Duty Modern Warfare 3
 [Try]Sniper Ghost Warrior
+Pre-requisites needed:
+DirectX9, DirectX10, Microsoft dotnet4, Visual C++ Redist 2005, Visual C++ Redist 2008, Visual C++ Redist 2010
+
 ----------------------------------------------------------------------------------------------
 Bugs:
 1)Airplane mode toggle with Fn key disables touchpad(Reproducable - Y).
